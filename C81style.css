@@ -1,0 +1,21 @@
+
+h1
+{
+	color: rgb(195, 176, 248); 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url("bg1.jpg");
+	background-position:center;
+	background-size:cover;
+	background-color: lavender;
+}
+
+#myCanvas{
+	border-width: 10px;
+	border-color: lightpink;
+	border-style: ridge;
+}
+span{
+	font-size: 20px;
+}
